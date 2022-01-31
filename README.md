@@ -1,5 +1,8 @@
 # React-Crud
 
+Navegação usar /creat 
+Para navegar para a janela create 
+
 npx create-react-app react-crud
 
 #semantic-ui-react
